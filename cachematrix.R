@@ -1,5 +1,6 @@
 ## These functions written in partial fulfillment of Coursera Data Science: R Programming 
-
+## This is a assignment from Nihat Halici
+## @jackatkott is a test account from Nihat Halici
 
 ## This function creates a special "matrix" object that can cache its inverse
 
